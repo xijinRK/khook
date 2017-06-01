@@ -25,8 +25,8 @@ ________________________________________________________________________________
 
 `4. Open your CS:GO`
 
-`5. Inject your DLL and wait until the watermark appears in the top left corner of the screen.
-![img6](http://i.imgur.com/C9tIudO.png)`
+`5. Inject your DLL and wait until the watermark appears in the top left corner of the screen.`
+![img6](http://i.imgur.com/C9tIudO.png)
 
 `6. Press`<kbd>HOME</kbd>`to open the GUI.`
 
