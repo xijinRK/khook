@@ -1,13 +1,13 @@
 ![header](http://i.imgur.com/9d4pKMd.png)
 ___________________________________________________________________________________________________________________________________
-### About: ###
+# About: #
 KHook is a fully featured CS:GO cheat. ~~THXSynraw~~
 
 I'll update the cheat with new features, bug fixes, etc..
 
 
 ___________________________________________________________________________________________________________________________________
-### Screenshots: ###
+# Screenshots: #
 
 ![img1](http://i.imgur.com/GHrcrbx.jpg)
 ![img2](http://i.imgur.com/f7hOaSt.jpg)
@@ -15,7 +15,7 @@ ________________________________________________________________________________
 ![img4](http://i.imgur.com/OOtzMZ9.jpg)
 ![img5](http://i.imgur.com/zUEBsvX.jpg)
 ___________________________________________________________________________________________________________________________________
-### How to use? ###
+# How to use: #
 
 `1. Clone this repo or download the zip:
 ```git clone github.com/iFloody/khook.git```
@@ -34,7 +34,7 @@ ________________________________________________________________________________
 `7. Profit.`
 
 ___________________________________________________________________________________________________________________________________
-### Can I get banned? ###
+# Can I get banned? #
 
 1. Always assume that a public cheat can get you banned. 
 
@@ -44,5 +44,17 @@ ________________________________________________________________________________
 
 4. If you want to rage in MM, make sure that your Aimbot FOV is less than 89.
 ___________________________________________________________________________________________________________________________________
+# Change-log: #
 
+6/1/2017: First public version, minor fixes to the UI.
+___________________________________________________________________________________________________________________________________
+### To do: ###
+
+- Properlyfix the cfg system.
+- Tweak the UI.
+- Fix the Glow ESP
+- Add more features to the ESP
+- *Maybe, change the entire UI*
+- Put some skins that aren't present in the skin changer.
+___________________________________________________________________________________________________________________________________
 # USE THIS CHEAT AT YOUR OWN RISK!
