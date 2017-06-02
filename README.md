@@ -17,32 +17,23 @@ ________________________________________________________________________________
 ___________________________________________________________________________________________________________________________________
 # How to use: #
 
-`1. Clone this repo or download the zip:
+`1. Clone this repo or download the zip:`
 ```git clone github.com/iFloody/khook.git```
-
 `2. Open/extract the downloaded folder/zip.`
-
 `3. Install the KHook.ttf font.`
-
 `4. Open your CS:GO`
-
 `5. Inject your DLL and wait until the watermark appears in the top left corner of the screen.`
 ![img6](http://i.imgur.com/C9tIudO.png)
-
 `6. Press`<kbd>HOME</kbd>`to open the GUI.`
-
 `7. Profit.`
 
 ___________________________________________________________________________________________________________________________________
 # Can I get banned? #
 
-1. Always assume that a public cheat can get you banned. 
-
-2. Don't use injectors like Xenos Injector or Extreme Injector, code your own or use a less known one.
-
-3. Don't use any AAs in MM. 
-
-4. If you want to rage in MM, make sure that your Aimbot FOV is less than 89.
+- Always assume that a public cheat can get you banned. 
+- Don't use injectors like Xenos Injector or Extreme Injector, code your own or use a less known one.
+- Don't use any AAs in MM. 
+- If you want to rage in MM, make sure that your Aimbot FOV is less than 89.
 ___________________________________________________________________________________________________________________________________
 # Change-log: #
 
