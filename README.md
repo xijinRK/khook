@@ -46,8 +46,8 @@ ________________________________________________________________________________
 ___________________________________________________________________________________________________________________________________
 # Change-log: #
 
-6/1/2017: First public version, minor fixes to the UI.
-6/2/2017: Removed some useless code, added "Spin at Target" option in the resolvers group.
+- 6/1/2017: First public version, minor fixes to the UI.
+- 6/2/2017: Removed some useless code, added "Spin at Target" option in the resolvers group.
 ___________________________________________________________________________________________________________________________________
 ### To do: ###
 
