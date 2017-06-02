@@ -18,7 +18,7 @@ ________________________________________________________________________________
 # How to use: #
 
 `1. Clone this repo or download the zip:`
-```git clone github.com/iFloody/khook.git```
+git clone github.com/iFloody/khook.git
 
 `2. Open/extract the downloaded folder/zip.`
 
