@@ -50,11 +50,11 @@ ________________________________________________________________________________
 ___________________________________________________________________________________________________________________________________
 ### To do: ###
 
-- Properlyfix the cfg system.
+- Properly fix the cfg system.
 - Tweak the UI.
 - Fix the Glow ESP
+- Add a players tab (Use the resolver in a specific person, stole her name/clan tag, view her rank, etc..)
 - Add more features to the ESP
-- *Maybe, change the entire UI*
 - Put some skins that aren't present in the skin changer.
 ___________________________________________________________________________________________________________________________________
 # USE THIS CHEAT AT YOUR OWN RISK!
