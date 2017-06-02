@@ -1,3 +1,4 @@
+___________________________________________________________________________________________________________________________________
 ![header](http://i.imgur.com/9d4pKMd.png)
 ___________________________________________________________________________________________________________________________________
 # About: #
@@ -5,8 +6,6 @@ KHook is a fully featured CS:GO cheat. ~~THXSynraw~~
 
 I'll update the cheat with new features, bug fixes, etc..
 
-
-___________________________________________________________________________________________________________________________________
 # Screenshots: #
 
 ![img1](http://i.imgur.com/GHrcrbx.jpg)
@@ -14,7 +13,7 @@ ________________________________________________________________________________
 ![img3](http://i.imgur.com/UoNGMJZ.jpg)
 ![img4](http://i.imgur.com/OOtzMZ9.jpg)
 ![img5](http://i.imgur.com/zUEBsvX.jpg)
-___________________________________________________________________________________________________________________________________
+
 # How to use: #
 
 `1. Clone this repo or download the zip:`
@@ -33,19 +32,18 @@ git clone github.com/iFloody/khook.git
 
 `7. Profit.`
 
-___________________________________________________________________________________________________________________________________
 # Can I get banned? #
 
 - Always assume that a public cheat can get you banned. 
 - Don't use injectors like Xenos Injector or Extreme Injector, code your own or use a less known one.
 - Don't use any AAs in MM. 
 - If you want to rage in MM, make sure that your Aimbot FOV is less than 89.
-___________________________________________________________________________________________________________________________________
+
 # Change-log: #
 
 - 6/1/2017: First public version, minor fixes to the UI.
 - 6/2/2017: Removed some useless code, added "Spin at Target" option in the resolvers group.
-___________________________________________________________________________________________________________________________________
+
 ### To do: ###
 
 - Properly fix the cfg system.
@@ -54,5 +52,8 @@ ________________________________________________________________________________
 - Add the Players Tab (Use the resolver in a specific person, stole her name/clan tag, view her mm rank, etc..)
 - Add more features to the ESP.
 - Put some skins that aren't present in the skin changer.
-___________________________________________________________________________________________________________________________________
+
+
+
+
 # USE THIS CHEAT AT YOUR OWN RISK!
