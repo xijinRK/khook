@@ -49,7 +49,7 @@ git clone github.com/iFloody/khook.git
 1. Properly fix the cfg system.
 2. Tweak the UI.
 3. Fix the Glow ESP.
-4. Add the Players Tab (Use the resolver in a specific person, stole her name/clan tag, view her mm rank, etc..)
+4. Add the Players Tab (Use the resolver in a specific person, stole his name/clan tag, view his mm rank, etc..)
 5. Add more features to the ESP.
 6. Put some skins that aren't present in the skin changer.
 ___________________________________________________________________________________________________________________________________
