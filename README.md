@@ -43,7 +43,9 @@ git clone github.com/iFloody/khook.git
 
 - 6/1/2017: First public version, minor fixes to the UI.
 - 6/2/2017: Removed some useless code, added "Spin at Target" option in the resolver group.
-- 6/2/2017: Tweaked the GUI; Default color changed; "CESP::Draw" function optimized; ESP Name and ESP Box options is no longer a checkbox; overall code optimized.
+- 6/2/2017: Tweaked the GUI; Default color changed; "CESP::Draw" function optimized; ESP Name and ESP Box options is no longer a checkbox and overall code optimized.
+- 6/3/2017: Spectators list rmoved (needs some fixes).
+- 6/3/2017: More tweaks for the MENU.
 
 ### To do: ###
 
