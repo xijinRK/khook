@@ -44,18 +44,17 @@ git clone github.com/iFloody/khook.git
 - 6/1/2017: First public version, minor fixes to the UI.
 - 6/2/2017: Removed some useless code, added "Spin at Target" option in the resolver group.
 - 6/2/2017: Tweaked the GUI; Default color changed; "CESP::Draw" function optimized; ESP Name and ESP Box options is no longer a checkbox and overall code optimized.
-- 6/3/2017: Spectators list rmoved (needs some fixes).
+- 6/3/2017: Spectators list removed (needs some fixes).
 - 6/3/2017: More tweaks for the MENU.
+- 6/4/2017: Glove Changer added, Spectators List added, the cfg system has been fixed (load/unload), new custom names added, fixed the low FPS gltich when you change map, no sky removed.
 
 ### To do: ###
 
-1. Glove Changer.
-2. Properly fix the cfg system.
-3. Tweak the UI.
-4. Fix the Glow ESP.
-5. Add the Players Tab (Use the resolver in a specific person, stole his name/clan tag, view his mm rank, etc..)
-6. Add more features to the ESP.
-7. Put some skins that aren't present in the skin changer.
+1. Tweak the UI.
+2. Fix the Glow ESP.
+3. Add the Players Tab (Use the resolver in a specific person, stole his name/clan tag, view his mm rank, etc..)
+4. Add more features to the ESP.
+5. Put some skins that aren't present in the skin changer.
 ___________________________________________________________________________________________________________________________________
 
 USE THIS CHEAT AT YOUR OWN RISK!
