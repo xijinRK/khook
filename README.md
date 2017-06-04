@@ -8,11 +8,10 @@ I'll update the cheat with new features, bug fixes, etc..
 
 # Screenshots: #
 
-![img1](http://i.imgur.com/GHrcrbx.jpg)
-![img2](http://i.imgur.com/f7hOaSt.jpg)
-![img3](http://i.imgur.com/UoNGMJZ.jpg)
+![img1](http://i.imgur.com/IDwbEin.jpg)
+![img2](http://i.imgur.com/IDwbEin.jpg)
+![img3](http://i.imgur.com/Ys6yknf.jpg)
 ![img4](http://i.imgur.com/OOtzMZ9.jpg)
-![img5](http://i.imgur.com/zUEBsvX.jpg)
 
 # How to use: #
 
@@ -28,7 +27,7 @@ git clone github.com/iFloody/khook.git
 `4. Open your CS:GO`
 
 `5. Inject your DLL and wait until the watermark appears in the top left corner of the screen.`
-![img6](http://i.imgur.com/C9tIudO.png)
+![img5](http://i.imgur.com/C9tIudO.png)
 
 `6. Press`<kbd>HOME</kbd>`to open the GUI.`
 
