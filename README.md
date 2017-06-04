@@ -21,7 +21,9 @@ git clone github.com/iFloody/khook.git
 
 `2. Open/extract the downloaded folder/zip.`
 
-`3. Install the KHook.ttf font.`
+`3. Install the "KHook.ttf" font.`
+
+`4. Install the "braille.ttf" font.`
 
 `4. Open your CS:GO`
 
@@ -46,7 +48,7 @@ git clone github.com/iFloody/khook.git
 - 6/2/2017: Tweaked the GUI; Default color changed; "CESP::Draw" function optimized; ESP Name and ESP Box options is no longer a checkbox and overall code optimized.
 - 6/3/2017: Spectators list removed (needs some fixes).
 - 6/3/2017: More tweaks for the MENU.
-- 6/4/2017: Glove Changer added, Spectators List added, the cfg system has been fixed (load/unload), new custom names added, fixed the low FPS gltich when you change map, no sky removed.
+- 6/4/2017: Glove Changer implemented. (Thanks ajgoreq), spectators list added back, the config system has been fixed (load problem), new custom names, the Invisible Name automatically makes that you can change your name how many times you want without reconnecting into the match. Fixed the low FPS glitch when you change map, No Sky removed, new font added. (See the README for instructions).
 
 ### To do: ###
 
