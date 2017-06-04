@@ -48,7 +48,14 @@ git clone github.com/iFloody/khook.git
 - 6/2/2017: Tweaked the GUI; Default color changed; "CESP::Draw" function optimized; ESP Name and ESP Box options is no longer a checkbox and overall code optimized.
 - 6/3/2017: Spectators list removed (needs some fixes).
 - 6/3/2017: More tweaks for the MENU.
-- 6/4/2017: Glove Changer implemented. (Thanks ajgoreq), spectators list added back, the config system has been fixed (load problem), new custom names, the Invisible Name automatically makes that you can change your name how many times you want without reconnecting into the match. Fixed the low FPS glitch when you change map, No Sky removed, new font added. (See the README for instructions).
+- 6/4/2017: Glove Changer implemented (Thanks ajgoreq). 
+- 6/4/2017: Spectators list added back. 
+- 6/4/2017: CFG system has been fixed (load problem).
+- 6/4/2017: New custom names (LMAOBOX & Invisible Name). The Invisible Name automatically makes that you can change your name how many times you want without reconnecting into the match. 
+- 6/4/2017: Fixed the low FPS glitch when you change map.
+- 6/4/2017: No Sky removed.
+- 6/4/2017: KHook.ttf font updated with the Glove Changer tab logo. (See README.md for instructions).
+- 6/4/2017: New font added. (See README.md for instructions).
 
 ### To do: ###
 
