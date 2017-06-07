@@ -56,8 +56,9 @@ git clone github.com/iFloody/khook.git
 - 6/4/2017: No Sky removed.
 - 6/4/2017: KHook.ttf font updated with the Glove Changer tab logo. (See README.md for instructions).
 - 6/4/2017: New font added. (See README.md for instructions).
-- 6/7/2017: More UI Tweaks.
+- 6/7/2017: More UI tweaks.
 - 6/7/2017: More bug-fixes.
+
 --- NO MORE UPDATES ---
 
 ___________________________________________________________________________________________________________________________________
