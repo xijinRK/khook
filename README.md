@@ -2,10 +2,6 @@ ________________________________________________________________________________
 ![header](http://i.imgur.com/9d4pKMd.png)
 ___________________________________________________________________________________________________________________________________
 
-_____I'M NOT GOING TO UPDATE THIS CHEAT ANYMORE!_____
-
-_____ONE DAY I'LL BE BACK XD_____
-
 # About: #
 KHook is a fully featured CS:GO cheat. ~~THXSynraw~~
 
@@ -62,14 +58,8 @@ git clone github.com/iFloody/khook.git
 - 6/4/2017: New font added. (See README.md for instructions).
 - 6/7/2017: More UI Tweaks.
 - 6/7/2017: More bug-fixes.
+--- NO MORE UPDATES ---
 
-### To do: ###
-
-1. Tweak the UI.
-2. Fix the Glow ESP.
-3. Add the Players Tab (Use the resolver in a specific person, stole his name/clan tag, view his mm rank, etc..)
-4. Add more features to the ESP.
-5. Put some skins that aren't present in the skin changer.
 ___________________________________________________________________________________________________________________________________
 
-USE THIS CHEAT AT YOUR OWN RISK!
+___USE THIS CHEAT AT YOUR OWN RISK!___
