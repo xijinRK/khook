@@ -1,6 +1,11 @@
 ___________________________________________________________________________________________________________________________________
 ![header](http://i.imgur.com/9d4pKMd.png)
 ___________________________________________________________________________________________________________________________________
+
+_____I'M NOT GOING TO UPDATE THIS CHEAT ANYMORE!_____
+
+_____ONE DAY I'LL BE BACK XD_____
+
 # About: #
 KHook is a fully featured CS:GO cheat. ~~THXSynraw~~
 
@@ -55,6 +60,8 @@ git clone github.com/iFloody/khook.git
 - 6/4/2017: No Sky removed.
 - 6/4/2017: KHook.ttf font updated with the Glove Changer tab logo. (See README.md for instructions).
 - 6/4/2017: New font added. (See README.md for instructions).
+- 6/7/2017: More UI Tweaks.
+- 6/7/2017: More bug-fixes.
 
 ### To do: ###
 
