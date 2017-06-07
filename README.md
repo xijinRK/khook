@@ -5,7 +5,7 @@ ________________________________________________________________________________
 # About: #
 KHook is a fully featured CS:GO cheat. ~~THXSynraw~~
 
-I'll update the cheat with new features, bug fixes, etc..
+I'm not updating this cheat anymore.
 
 # Screenshots: #
 
